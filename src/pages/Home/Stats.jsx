@@ -29,7 +29,7 @@ function Stats() {
   </div>
 
   <div className='RightPart'>
-    <img src="../src/images/ecosystem.png" alt="Ecosystem" className='image'/>
+    <img src="/images/ecosystem.png" alt="Ecosystem" className='image'/>
   </div>
 </div>
 

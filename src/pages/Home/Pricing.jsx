@@ -13,15 +13,15 @@ function Pricing() {
             </div>
             <div className='rightprice'>
                 <div className='pricing-box'>
-                <img src="../src/images/pricing0.svg"/>
+                <img src="/images/pricing0.svg"/>
                 <p>Free account<br></br>
                 opening</p></div>
                 <div  className='pricing-box'>
-                <img src="../src/images/pricingEquity.svg"/>
+                <img src="/images/pricingEquity.svg"/>
                 <p>Free equity delivery<br></br>
                 and direct mutual funds</p></div>
                 <div  className='pricing-box'>
-                <img src="../src/images/pricingMF.svg"/>
+                <img src="/images/pricingMF.svg"/>
                 <p>Intraday and<br></br>
                 F&O</p></div>
                 

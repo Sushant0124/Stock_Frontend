@@ -9,7 +9,7 @@ function Footer() {
     <div class="row between main-footer">
       <div class="columns three">
         <div class="footer-logo">
-          <img src="/static/images/stockfusion-logo.svg" alt="StockFusion" />
+          <img src="/stockfusion-logo.svg" alt="StockFusion" />
         </div>
 
         <p class="copyright text-grey">

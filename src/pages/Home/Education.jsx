@@ -5,7 +5,7 @@ function Education() {
         <>
         <div className='education'>
             <div className='left'>
-            <img src='../src/images/education.svg'/>
+            <img src='/images/education.svg'/>
             </div>
             <div className='right'>
             <h4>Free and open market education</h4>
