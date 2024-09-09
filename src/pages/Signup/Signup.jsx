@@ -35,7 +35,7 @@ const Signup = () => {
     e.preventDefault();
     try {
       const { data } = await axios.post(
-        "http://localhost:3000/signup",
+        "https://staock-backend.onrender.com/signup",
         {
           ...inputValue,
         },
@@ -48,7 +48,7 @@ const Signup = () => {
         setTimeout(() => {
           console.log(data);
           // localStorage.setItem("userData", JSON.stringify(data.user));
-          window.location.href = "http://localhost:5174"; // Redirect to dashboard URL
+          window.location.href = "https://stock-dashboard-nine.vercel.app/"; // Redirect to dashboard URL
         }, 1000);
       } else {
         handleError(message);
