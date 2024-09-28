@@ -1,4 +1,5 @@
 import React from 'react';
+import {Link} from "react-router-dom";
 
 function Universe() {
     return ( 
@@ -27,7 +28,7 @@ function Universe() {
             <img src="/images/goldenpiLogo.png"/>
             </div>
         </div>
-        <button type="button" class="btn btn-primary unv-button ">Sign Up Now</button>
+       <Link to="/signup> <button type="button" class="btn btn-primary unv-button ">Sign Up Now</button></Link>
        </div>
         </>
      );
