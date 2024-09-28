@@ -28,7 +28,7 @@ function Universe() {
             <img src="/images/goldenpiLogo.png"/>
             </div>
         </div>
-       <Link to="/signup> <button type="button" class="btn btn-primary unv-button ">Sign Up Now</button></Link>
+       <Link to="/signup"> <button type="button" class="btn btn-primary unv-button ">Sign Up Now</button></Link>
        </div>
         </>
      );
